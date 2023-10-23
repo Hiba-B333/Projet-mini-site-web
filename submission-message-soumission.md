@@ -8,7 +8,7 @@ Hiba Belmaalem
 
 The URL of your live GitHub Pages site. L'URL de la version en ligne de votre site sur GitHub Pages.
 
-https://github.com/Hiba-B333/Projet-mini-site-web.git
+http://minisiteweb.hiba.ca/
 
 ##CSS:
 
